@@ -54,6 +54,3 @@ src/
     mock-data.ts                # Sample nodes, edges, targets, pathways
 ```
 
-## License
-
-MIT
